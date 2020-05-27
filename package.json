@@ -1,0 +1,19 @@
+{
+   "name": "wifipassguesser",
+   "version": "1.0.0",
+   "description": "",
+   "main": "sass/mystyles.scss",
+   "scripts": {
+      "test": "npm test",
+      "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
+      "css-watch": "npm run css-build -- --watch",
+      "start": "npm run css-watch"
+   },
+   "author": "Enzo Barrett",
+   "license": "ISC",
+   "devDependencies": {
+      "bulma-switch": "^2.0.0",
+      "node-sass": "^4.14.1",
+      "nodemon": "^2.0.4"
+   }
+}

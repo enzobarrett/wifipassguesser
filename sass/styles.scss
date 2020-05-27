@@ -1,0 +1,64 @@
+#iphone {
+    background: black;
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+
+.networkview > .columns {
+    border-bottom: 1px solid #3c3b40;
+}
+
+.networkview > .columns > .column {
+    background-color: #1b1b1d;
+}
+/* mystyles.css | http://localhost:8080/css/mystyles.css */
+
+.columns {
+  margin-left: 0rem; 
+  margin-right: 0rem;
+}
+
+.section {
+  padding: 0px;
+}
+
+/* Element | http://localhost:8080/ */
+
+#iphone {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.settingTitle {
+    font-size: 1.7rem;
+}
+
+/* mystyles.css | http://localhost:8080/css/mystyles.css */
+
+#paddingFix {
+   padding-top: 0px !important;
+}
+
+/* Element | http://localhost:8080/ */
+
+.field {
+  padding-top: 4px;
+}
+
+.columnPaddingFix {
+    padding: 0px;
+}
+/* remove? */
+
+.networks {
+    margin-top: 20px;
+    color: #666666;
+}
+
+.fa-sm {
+    margin-right: 5px;
+}
